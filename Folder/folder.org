@@ -1,0 +1,5 @@
+* Folders
+
+Folders are sometimes useful if you want to organize data.
+
+They're not the same thing as a folder that you might find on your desk, but they're not that dissimilar.
