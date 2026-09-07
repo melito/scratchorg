@@ -1,0 +1,3 @@
+* Hi.
+
+This is just a blank space used so a robot can check if something is working or not.
